@@ -1,0 +1,2 @@
+# emojikod
+emojikod
